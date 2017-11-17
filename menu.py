@@ -1,5 +1,3 @@
-#este es un cambio
-#cambios de kevin
 
 from services import * 
 
